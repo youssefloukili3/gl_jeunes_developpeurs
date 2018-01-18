@@ -1,10 +1,10 @@
 # gl_jeunes_developpeurs
 ---
-###Description:
+## Description:
 Cette application permet la gestion des vols et de leurs resérvation.
 ---
-##Technologies:
+## Technologies:
 java
 swing
 ---
-##Installation:
+## Installation:
